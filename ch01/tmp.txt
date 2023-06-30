@@ -1,0 +1,9 @@
+DESIGNING
+Data-Intensive Applications
+The big ideas behind reliable, scalable & maintainable systems
+RELIABILITY
+  # Tolerating hardware & software faults Human error
+SCALABILITY
+  # Measuring load & performance Latency percentiles, throughput
+MAINTAINABILITY
+  # Operability. simplicity & evolvability
